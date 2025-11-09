@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Meet Mohammed Thoufeeq!<br>Hey there! Thanks for stopping by to learn a bit about my transition and expertise.<br>I am a Business and Data Analytics Specialist (transitioning from Product Executive) who believes that the best business insights start with clean, well-governed operational data. I'm leveraging my 1.5 years of hands-on experience at TCS to make data-driven decisions that drive process efficiency (#OperationalDataNerd).<br>Core Expertise & Technical Toolkit<br>My operational background across Item Onboarding and Site Merchandising means I understand the true business context behind the numbers. My core specialization is translating that context into analytical solutions:<br>•	Data Analysis & Visualization: Expert command of SQL Server (for robust querying and data sheet management), Power BI, and Tableau.<br>•	Data Processing & Statistics: Strong certified skills in Python, Advanced Excel, EDA Analysis, and Statistics.<br>•	Operational & Workflow Tools: Proficient in JIRA (for client communication and implementation), Stella, Titan, and WinSCP.<br>Bridging the Gap: Achievements<br>I'm uniquely positioned to blend operational excellence with data integrity:<br>•	Process Optimization: Successfully drove new process implementations on a pilot project based on direct client feedback (via JIRA), demonstrating both technical problem-solving and client-facing communication.<br>•	Data Quality Leadership: As a Senior Attribute Tagger, I directly used SQL to maintain and modify data rules ("Cheat Sheets") and Power BI to monitor over-production metrics, proving my ability to manage data quality from the source.<br>•	Product Lifecycle Management: Managed full product readiness, from initial excel validation and Product ID creation to asset upload (resizing/standards via Titan) and going live.<br>I am constantly diving deeper into data storytelling and finding ways to make process data more visible and actionable. If you’re looking for someone to streamline operational reporting, manage data quality at the source, or build interactive, client-ready dashboards, I’m your professional.<br>Want to collaborate or just talk data flow? Reach out mohammmedthoufeeq@gmail.com!<br>
 
-<!--
-**MohammedThoufeeq0609/MohammedThoufeeq0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-thoufeeq-b340b8354/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedthoufeeq0609@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MohammedThoufeeq0609&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MohammedThoufeeq0609&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedThoufeeq0609&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MohammedThoufeeq0609&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
