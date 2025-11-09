@@ -1,8 +1,8 @@
-# 💫 About Me:
-Meet Mohamed Thoufeeq<br>Hey there! Thanks for stopping by to learn a bit about my transition and expertise.<br>I am a Business and Data Analytics Specialist (transitioning from Product Executive) who believes that the best business insights start with clean, well-governed operational data. I'm leveraging my 1.5 years of hands-on experience at TCS to make data-driven decisions that drive process efficiency (#OperationalDataNerd).
+# Meet Mohamed Thoufeeq:
+<br>Hey there! Thanks for stopping by to learn a bit about my transition and expertise.<br><br>I am a Business and Data Analytics Specialist (transitioning from Product Executive) who believes that the best business insights start with clean, well-governed operational data. I'm leveraging my 1.5 years of hands-on experience at TCS to make data-driven decisions that drive process efficiency (#OperationalDataNerd).
 <br><br>Specializes in utilizing SQL to maintain data rules and Power BI to track production metrics from the source as a Senior Attribute Tagger. Drove client-approved process improvements in a pilot project via JIRA, preparing documentation (PPT guides) and training team members. Managed full product readiness, from initial data verification and Product ID creation (Stella) to asset deployment (Titan/WinSCP) and taking pages live.
-<br>Get Certified by expertise in SQL Server, Power BI, Tableau, Python, Advanced Excel, EDA Analysis, and Statistics. Proficient in operational workflows using JIRA, Stella, Titan, and WinSCP.
-<br>I am focused on translating operational complexity into actionable data Insights and effective dashboards.<br>Want to collaborate or just talk data flow? Reach out mohammedthoufeeq0609@gmail.com!<br>
+<br><br>Get Certified by expertise in SQL Server, Power BI, Tableau, Python, Advanced Excel, EDA Analysis, and Statistics. Proficient in operational workflows using JIRA, Stella, Titan, and WinSCP.
+<br><br>I am focused on translating operational complexity into actionable data Insights and effective dashboards with a goal to make data more accessible and valuable for business growth.<br>
 
 
 ## 🌐 Socials:
